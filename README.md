@@ -8,12 +8,12 @@
 ## Downloading
 
 ```
-git clone https://github.com/Intrstng/nodejs2024Q1-service.git
+git clone https://github.com/Intrstng/nodejs2024Q3-service.git
 ```
 
 ## Go to the application root folder (run in terminal from the original folder where the repo was cloned):
 ```
-cd nodejs2024Q1-service
+cd nodejs2024Q3-service
 ```
 
 ## Switch to task branch:
